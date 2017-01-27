@@ -1,0 +1,24 @@
+{
+  "arr":[
+    {
+      "time": 8000,
+      "lines": 2,//number of lines to be considered
+      "speed": -10//fast i.e. decrease the speed of the animation  by 10%
+    },
+    {
+      "time":12000,
+      "lines": 2,
+      "speed":0//normal i.e. increase the speed of the animation  by 0%
+    },
+    {
+      "time":14000,
+      "lines": 2,
+      "speed":20//slow i.e. modify the speed of animation
+    },
+    {
+      "time":14000,
+      "lines": 6,
+      "speed":-70//fast i.e. do not modify the speed of animation
+    }
+  ]
+}
